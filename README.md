@@ -1,6 +1,6 @@
 ### Hi there 👋
-🌱 I’m currently learning Computer Science at SSPU Pune
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/athyadw45/)
+- 🌱 I’m currently learning Computer Science at SSPU Pune
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/athyadw45/)
 
 <!--
 **Athyadw45/Athyadw45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
